@@ -4,8 +4,8 @@ applications:
   memory: 64M
   instances: 1
   domain: mybluemix.net
-  name: batatafrita
-  host: myBluemixApp
-  disk_quota: 1024M
- 
+  name: myBluemixApp
+  host: batatafrita
+  #disk_quota: 1024M
+
 #${random-word}
