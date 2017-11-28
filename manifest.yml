@@ -7,5 +7,5 @@ applications:
   name: batatafrita
   host: myBluemixApp
   disk_quota: 1024M
- 
+
 #${random-word}
