@@ -6,6 +6,10 @@ applications:
   domain: mybluemix.net
   name: batatafrita
   host: batatafrita
+<<<<<<< HEAD
   disk_quota: 64M
+=======
+  disk_quota: 1024M
+>>>>>>> 781ef3310e3b5eadbc11eafbb97057bd65f2ce82
 
 #${random-word}
