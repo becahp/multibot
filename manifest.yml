@@ -1,7 +1,7 @@
 ---
 applications:
 - path: .
-  memory: 120M
+  memory: 256M
   instances: 1
   domain: mybluemix.net
   name: batatafrita
