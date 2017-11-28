@@ -1,11 +1,11 @@
 ---
 applications:
 - path: .
-  memory: 64M
+  memory: 128M
   instances: 1
   domain: mybluemix.net
   name: batatafrita
   host: batatafrita
-  disk_quota: 64M
+  #disk_quota: 64M
 
 #${random-word}
